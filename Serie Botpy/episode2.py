@@ -21,4 +21,4 @@ async def on_member_join(member):
     await bot.get_channel(992785391457411163).send(embed=embed)
     
 
-bot.run("OTY0ODUwMDk3MDE3OTg3MTQy.GW_KOS.CTKdJ9f9xlhEXILikn0Si-sbBG7TRwn0U_hyuM")
+bot.run("TOKEN")
